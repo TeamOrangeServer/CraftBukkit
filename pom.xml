@@ -42,13 +42,17 @@
       <id>repobo-snap</id>
       <url>http://repo.bukkit.org/content/groups/public</url>
     </repository>
-      <repository>
+    <repository>
       <id>elmakers-repo</id>
       <url>http://maven.elmakers.com/repository/</url>
     </repository>
   </repositories>
 
   <pluginRepositories>
+    <pluginRepository>
+      <id>elmakers-repo</id>
+      <url>http://maven.elmakers.com/repository/</url>
+    </pluginRepository>
     <pluginRepository>
       <id>bukkit-plugins</id>
       <url>http://repo.bukkit.org/content/groups/public</url>
