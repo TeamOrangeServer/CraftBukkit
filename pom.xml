@@ -57,6 +57,10 @@
       <id>bukkit-plugins</id>
       <url>http://repo.bukkit.org/content/groups/public</url>
     </pluginRepository>
+    <pluginRepository>
+      <id>elmakers-repo</id>
+      <url>http://maven.elmakers.com/repository/</url>
+    </pluginRepository>
   </pluginRepositories>
 
   <dependencies>
